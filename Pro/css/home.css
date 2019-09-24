@@ -1,0 +1,26 @@
+.heading {
+  color: rgb(70, 65, 65);
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+}
+
+.instruction-box {
+  margin: 30px auto;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 15px;
+}
+
+.instruction-box h2 {
+  margin: 10px auto;
+  padding: 2%;
+  font-size: 3 rem;
+}
+
+.instruction-box ul li {
+  line-height: 40px;
+  font-size: 1.5rem;
+}
+
+body {
+  background-color: #979797a1;
+}
